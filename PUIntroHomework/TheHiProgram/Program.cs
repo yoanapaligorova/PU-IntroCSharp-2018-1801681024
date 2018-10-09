@@ -6,7 +6,7 @@ namespace TheHiProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Yoana");
+            Console.WriteLine("Hello Yoana Paligorova");
         }
     }
 }
