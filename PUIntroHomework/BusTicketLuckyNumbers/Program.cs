@@ -8,6 +8,7 @@ namespace BusTicketLuckyNumbers
 		{
 			int luckyTicketsCount = 0;
 			int unluckyTicketsCount = 0;
+
 			for (int i = 0; i < 1000000; i++)
 			{
 				if ((i / 100000 + i % 100000 / 10000 + i % 100000 % 10000 / 1000) == (i % 100000 % 10000 % 1000 / 100 + i % 100000 % 10000 % 1000 % 100 / 10 + i % 10))
