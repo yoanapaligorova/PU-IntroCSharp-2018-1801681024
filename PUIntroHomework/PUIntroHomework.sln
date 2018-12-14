@@ -39,15 +39,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentsSmile", "StudentsSm
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week8", "week8", "{4F6DDA88-D0CA-4F72-850B-396118E7E0AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea", "CircleArea\CircleArea.csproj", "{AB5FDAC9-6920-4FD3-9CF6-1BF75CB190E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CircleArea", "CircleArea\CircleArea.csproj", "{AB5FDAC9-6920-4FD3-9CF6-1BF75CB190E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageNumber", "AverageNumber\AverageNumber.csproj", "{9611C18C-5DDE-4E13-83C2-B43445AF10A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AverageNumber", "AverageNumber\AverageNumber.csproj", "{9611C18C-5DDE-4E13-83C2-B43445AF10A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiggyBank", "PiggyBank\PiggyBank.csproj", "{F454AE75-D034-473F-8537-B558728F1F8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiggyBank", "PiggyBank\PiggyBank.csproj", "{F454AE75-D034-473F-8537-B558728F1F8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{0F75FD5F-1E1C-4812-8772-7BC4891CDC6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{0F75FD5F-1E1C-4812-8772-7BC4891CDC6B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBombardment", "TextBombardment\TextBombardment.csproj", "{455025A1-14E4-4FBF-8AF0-2B0894A1F11D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextBombardment", "TextBombardment\TextBombardment.csproj", "{455025A1-14E4-4FBF-8AF0-2B0894A1F11D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

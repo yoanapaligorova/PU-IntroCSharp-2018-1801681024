@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace STD_LusianManolov_1701681009_H5_Task2
+namespace GeometryCalculator
+
 {
 	class Program
 	{
